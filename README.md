@@ -10,7 +10,7 @@ Srishti Gupta
 Mrunal Kshirsagar
 
 # About the project
-Our task is to implement Digital Signal Processing in Realtime. 
+Our main task is to implement Digital Signal Processing in Realtime. 
 
 Parts of the project:
 1. Dataset Collection
