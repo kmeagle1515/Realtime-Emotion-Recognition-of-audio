@@ -81,6 +81,8 @@ Below command can be used to run the demo for Offline predictions with Tkinter:
 
 `python3 Offline_pred.py`
 
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/46345142/208322915-924c74cf-ca26-4d9f-a8b4-9ba44ce7b2b3.png">
+
 
 5. Realtime emotion recognition 
 
@@ -89,6 +91,9 @@ This is the main part of the our project where in we took our existing code and 
 Below command can be used to run the demo for real time emotion recognition with user input (audio/speech):
 
 `python3 real_time_emotion.py`
+
+<img width="689" alt="image" src="https://user-images.githubusercontent.com/46345142/208322949-36f454ac-de84-4bbd-9036-19fe995b3eee.png">
+
 
 
 ## References
