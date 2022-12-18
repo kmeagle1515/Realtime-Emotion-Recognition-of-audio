@@ -9,6 +9,18 @@ Srishti Gupta
 
 Mrunal Kshirsagar
 
+
+# Steps to setup the project:
+
+`python3 -m venv dsplab`
+
+
+`source dsplab/bin/activate`
+
+
+`pip install -r requirements.txt`
+
+
 # About the project
 Our main task is to implement Digital Signal Processing in Realtime. 
 
