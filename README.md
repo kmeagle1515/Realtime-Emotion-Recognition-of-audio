@@ -92,8 +92,7 @@ Below command can be used to run the demo for real time emotion recognition with
 
 `python3 real_time_emotion.py`
 
-<img width="689" alt="image" src="https://user-images.githubusercontent.com/46345142/208322949-36f454ac-de84-4bbd-9036-19fe995b3eee.png">
-
+<img width="730" alt="image" src="https://user-images.githubusercontent.com/46345142/208322976-846e600c-75f7-4dc1-ac63-2f4c22210f6c.png">
 
 
 ## References
