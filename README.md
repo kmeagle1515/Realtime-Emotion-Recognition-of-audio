@@ -36,7 +36,10 @@ There are 7356 files in the Ryerson Audio-Visual Database of Emotional Speech an
 2. [Toronto emotional speech set (TESS) Collection](https://tspace.library.utoronto.ca/handle/1807/24487)
 
  There are 2800 stimuli in total. Two actresses were recruited from the Toronto area. Both actresses speak English as their first language, are university educated, and have musical training. 
- 
+
+For example: 03-01-01-01-02-01-06.wav
+
+Emotions are recognized as follows from the 3rd number of filename: 01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised
 
 2. Feature Extraction
 
